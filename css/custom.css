@@ -72,7 +72,7 @@ h4 {
 }
 
 .content-second {
-	background-color:#FFA07A;
+	background-color:#FF7F50;
 	padding:80px 0;
 	color:#FFFFFF;
 	border-top:8px solid rgba(0,0,0,0.1);
@@ -159,9 +159,9 @@ h4 {
 
 .btn-reference:hover,
 .btn-reference.btn-active {
-	border:1px solid #FFA07A;
-	border-bottom:3px solid #FFA07A;
-	color:#FFA07A;
+	border:1px solid #FF7F50;
+	border-bottom:3px solid #FF7F50;
+	color:#FF7F50;
 }
 
 /*------------------------------
@@ -174,7 +174,7 @@ h4 {
 }
 
 .alert-success {
-	background-color:#FFA07A;
+	background-color:#FF7F50;
 }
 
 .alert-danger {
@@ -199,7 +199,7 @@ h4 {
 .navbar-default .navbar-brand {
 	font-family:'Montserrat';
 	padding:23px 0 0 25px;
-	color:#FFA07A;
+	color:#FF7F50;
 	font-size:24px;
 	transition-duration:0.7s;
 }
@@ -232,8 +232,8 @@ h4 {
 }
 
 .navbar-default .navbar-nav > li > a:hover {
-	color:#FFA07A;
-	border-left:4px solid #FFA07A;
+	color:#FF7F50;
+	border-left:4px solid #FF7F50;
 }
 
 .navbar-collapse {
@@ -281,12 +281,12 @@ header {
 .brands > li > a {
 	background-color:transparent;
 	color:#FFFFFF;
-	border-top:3px solid #FFA07A;
+	border-top:3px solid #FF7F50;
 	transition-duration:0.2s;
 }
 
 .brands > li > a:hover {
-	color:#FFA07A;
+	color:#FF7F50;
 	border-top:3px solid #2F4254;
 }
 
@@ -295,7 +295,7 @@ header {
 }
 
 #slideshow i {
-	color:#FFA07A;
+	color:#FF7F50;
 }
 
 .carousel-inner {
@@ -334,7 +334,7 @@ header {
 
 .tweets {
 	margin-top:35px;
-	background-color:#FFA07A;
+	background-color:#FF7F50;
 	border-radius:6px;
 	padding:7px 0;
 	color:#FFFFFF;
@@ -391,7 +391,7 @@ header {
 }
 
 #about .overlay-wrapper .brands > li > a:hover {
-	color:#FFA07A;
+	color:#FF7F50;
 }
 
 /* SKILLS */
@@ -454,7 +454,7 @@ header {
 	text-align:center;
 	font-size:14px;
 	border-radius:50%;
-	background-color:#FFA07A;
+	background-color:#FF7F50;
 	border:6px solid #34495E;
 	display: inline-block;
 	padding-top:2px;
@@ -512,7 +512,7 @@ header {
 }
 
 blockquote footer {
-	color:#FFA07A;
+	color:#FF7F50;
 	font-size:18px;
 }
 
@@ -794,7 +794,7 @@ blockquote footer {
 }
 
 #contact .contact-info {
-	background-color:#FFA07A;
+	background-color:#FF7F50;
 	border-radius:5px;
 	color:#FFFFFF;
 	padding:0 12px;
@@ -802,7 +802,7 @@ blockquote footer {
 }
 
 #contact .contact-info p {
-	border-bottom:2px dashed #FFA07A;
+	border-bottom:2px dashed #FF7F50;
 	margin:0;
 	padding:12px 0;
 	font-weight:bold;
@@ -850,7 +850,7 @@ blockquote footer {
 }
 
 #footer .brands li a {
-	color:#FFA07A;
+	color:#FF7F50;
 
 	border-radius:50px;
 	border:0;
@@ -1072,7 +1072,7 @@ blockquote footer {
 
 	.navbar-default .navbar-toggle {
 		margin:0;
-		background-color:#FFA07A;
+		background-color:#FF7F50;
 		border:0;
 		border-radius:0;
 		padding:3px 0 0;
@@ -1084,7 +1084,7 @@ blockquote footer {
 
 	.navbar-default .navbar-toggle:hover,
 	.navbar-default .navbar-toggle:focus {
-		background-color: #FFA07A;
+		background-color: #FF7F50;
 	}
 
 	.navbar-brand{
