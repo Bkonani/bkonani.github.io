@@ -64,7 +64,7 @@ h4 {
 }
 
 .content-first {
-	background-color:#00BFFF;
+	background-color:#34495E;
 	padding:80px 0;
 	color:#FFFFFF;
 	border-top:8px solid rgba(0,0,0,0.1);
@@ -72,7 +72,7 @@ h4 {
 }
 
 .content-second {
-	background-color:#FFA07A;
+	background-color:#1ABC9C;
 	padding:80px 0;
 	color:#FFFFFF;
 	border-top:8px solid rgba(0,0,0,0.1);
@@ -159,9 +159,9 @@ h4 {
 
 .btn-reference:hover,
 .btn-reference.btn-active {
-	border:1px solid #16A085;
-	border-bottom:3px solid #16A085;
-	color:#16A085;
+	border:1px solid #1ABC9C;
+	border-bottom:3px solid #1ABC9C;
+	color:#1ABC9C;
 }
 
 /*------------------------------
@@ -174,7 +174,7 @@ h4 {
 }
 
 .alert-success {
-	background-color:#16A085;
+	background-color:#1ABC9C;
 }
 
 .alert-danger {
@@ -199,7 +199,7 @@ h4 {
 .navbar-default .navbar-brand {
 	font-family:'Montserrat';
 	padding:23px 0 0 25px;
-	color:#16A085;
+	color:#1ABC9C;
 	font-size:24px;
 	transition-duration:0.7s;
 }
@@ -232,8 +232,8 @@ h4 {
 }
 
 .navbar-default .navbar-nav > li > a:hover {
-	color:#16A085;
-	border-left:4px solid #16A085;
+	color:#1ABC9C;
+	border-left:4px solid #1ABC9C;
 }
 
 .navbar-collapse {
@@ -281,12 +281,12 @@ header {
 .brands > li > a {
 	background-color:transparent;
 	color:#FFFFFF;
-	border-top:3px solid #16A085;
+	border-top:3px solid #1ABC9C;
 	transition-duration:0.2s;
 }
 
 .brands > li > a:hover {
-	color:#16A085;
+	color:#1ABC9C;
 	border-top:3px solid #2F4254;
 }
 
@@ -295,7 +295,7 @@ header {
 }
 
 #slideshow i {
-	color:#16A085;	
+	color:#1ABC9C;	
 }
 
 .carousel-inner {
@@ -334,7 +334,7 @@ header {
 
 .tweets {
 	margin-top:35px;
-	background-color:#16A085;
+	background-color:#1ABC9C;
 	border-radius:6px;
 	padding:7px 0;
 	color:#FFFFFF;
@@ -802,7 +802,7 @@ blockquote footer {
 }
 
 #contact .contact-info p {
-	border-bottom:2px dashed #16A085;
+	border-bottom:2px dashed #1ABC9C;
 	margin:0;
 	padding:12px 0;
 	font-weight:bold;
@@ -850,7 +850,7 @@ blockquote footer {
 }
 
 #footer .brands li a {
-	color:#16A085;
+	color:#1ABC9C;
 	
 	border-radius:50px;
 	border:0;
@@ -1072,7 +1072,7 @@ blockquote footer {
 	
 	.navbar-default .navbar-toggle {
 		margin:0;
-		background-color:#16A085;
+		background-color:#1ABC9C;
 		border:0;
 		border-radius:0;
 		padding:3px 0 0;
@@ -1084,7 +1084,7 @@ blockquote footer {
 	
 	.navbar-default .navbar-toggle:hover, 
 	.navbar-default .navbar-toggle:focus {
-		background-color: #16A085;
+		background-color: #1ABC9C;
 	}
 	
 	.navbar-brand{
