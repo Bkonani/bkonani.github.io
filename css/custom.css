@@ -1460,3 +1460,182 @@ blockquote footer {
 .carousel .carousel-control:hover {
 	background-color:rgba(237,90,100,0.8);
 }
+
+
+/* Game CSS */
+
+.header{
+  color: #FF7F50;
+  font-weight: bold;
+  font-size: 74px;
+}
+.textline{
+color: grey;
+font-weight: bold;
+font-size: 17px;
+}
+.secondline{
+color: grey;
+font-size: 15px;
+}
+.inline{
+display: inline-block;
+}
+.score {
+
+  border-radius: 10px;
+  background: grey;
+  border: 3px solid white;
+  float: left;
+}
+
+.newGame {
+  float: right;
+}
+.textinside{
+
+color: white;
+font-weight: bold;
+}
+.tableborder{
+ border-radius: 40px;
+ }
+
+.btnrestart{
+  color: #333;
+  background-color: grey;
+  border-radius: 5px;
+  padding: 3px;
+  padding-left: 12px;
+  padding-right: 12px;
+  float: right;
+
+}
+
+
+.gameover{
+text-align: center;
+font-weight: bold;
+font-size: 200%;
+color: #8f7a66;
+}
+@media screen and (max-height: 768px) and (min-width: 481px){
+.cell {
+  width: 97.5px;
+  height: 97.5px;
+  margin-right: 12px;
+  float: left;
+  border-radius: 3px;
+  background: rgba(238, 228, 218, 0.35);
+}
+}
+@media screen and (max-width: 520px){
+.cell {
+  width: 57.5px;
+  height: 57.5px;
+  margin-right: 10px;
+  float: left;
+  border-radius: 3px;
+  background: rgba(238, 228, 218, 0.35);
+}
+}
+@media screen and (min-height: 769px){
+.cell {
+  width: 130.25px;
+  height: 130.25px;
+  margin-right: 15px;
+  float: left;
+  border-radius: 3px;
+  background: rgba(238, 228, 218, 0.35);
+  }
+  }
+  @media screen and (min-height: 769px){
+.tile-inner {
+    border-radius: 3px;
+
+    text-align: center;
+    font-weight: bold;
+    z-index: 10;
+	vertical-align: middle;
+    font-size: 55px;
+    width: 129.20px;
+  height: 129.20px;
+  }
+  }
+@media screen and (max-height: 768px) and (min-width: 481px){
+.tile-inner {
+    border-radius: 3px;
+    vertical-align: middle;
+    text-align: center;
+    font-weight: bold;
+    z-index: 10;
+    font-size: 45px;
+    width: 96.20px;
+  height: 96.20px;
+  }
+  }
+  @media screen and (max-width: 520px){
+.tile-inner {
+    border-radius: 3px;
+    vertical-align: middle;
+    text-align: center;
+    font-weight: bold;
+    z-index: 10;
+    font-size: 35px;
+    width: 56.20px;
+  height: 56.20px;
+  }
+  }
+  .two{
+   background: #87CEFA;
+  }
+  .four {
+    background: #FFA07A;
+      }
+	.eight{
+		background: #F0E68C;
+	}
+	.sixteen{
+		background: #FA8072;
+	}
+	.thirtytwo{
+		background: #F3F781;
+	}
+	.sixtyfour{
+		background: #90EE90;
+	}
+	.onetwentyeight{
+		background: #D8BFD8;
+	}
+	.twofiftysix{
+		background: #20B2AA;
+	}
+	.fivetwelve{
+		background: #ff674d;
+	}
+	.onethoutwenfour{
+		background: #6666ff;
+	}
+	.twothoufoureight{
+		background: #CD853F;
+	}
+.row{
+margin-bottom: 15px;
+}
+
+
+.tryagain {
+  color: #fff;
+  background-color: #8f7a66;
+  border-color: #2e6da4;
+  font-size: 17px;
+  font-weight: bold;
+}
+.cell {
+  width: 96.25px;
+  height: 96.25px;
+  margin-right: 15px;
+  float: left;
+  border-radius: 3px;
+  background: rgba(238, 228, 218, 0.35);
+  }
